@@ -1,0 +1,13 @@
+body{
+	background-color: #553d67;;
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	font-weight:10;
+	color:white;
+}
+p{
+	background-color: #bd968a;
+	font-size:22px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
